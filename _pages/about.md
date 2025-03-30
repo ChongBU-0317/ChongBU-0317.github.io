@@ -17,42 +17,48 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+#  Welcome
+I hold a Bachelor's degree in Advertising and a degree in Digital Media Design from L'École de design Nantes Atlantique in France. I have also received an offer for the Master's program in Creative and Cultural Industries at the University of Manchester. My research interests lie in digital media, advertising communication, user-generated content (UGC) on short video platforms, and cross-media narrative strategies. I am particularly interested in how innovative communication strategies can engage younger audiences and facilitate the dissemination of Chinese cultural IPs in the digital age across multiple platforms.
+I have authored and contributed to several papers, which have been accepted by both domestic and international academic conferences and journals. My work explores topics such as the impact of UGC on brand communication, the influence of recommendation algorithms on youth culture, and the global dissemination of Chinese cultural narratives.
+Outside of academia, I have been involved in various advertising design and creative projects, winning several awards in national and international advertising competitions. Moving forward, I plan to continue exploring the integration of digital and traditional media to drive innovation and development in the creative industries.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+#  News
+- *2025.02*: One paper has been accepted by *Film Literature* (电影文学), a CSSCI-indexed core journal.
+- *2024.12*: One paper has been accepted by the 2025 International Conference on Computer Networks, Digital Media Technology, and Internet of Things Engineering (CNDMTITE 2025). 
+- *2024.08*: Joined Professor Xiaofeng Liu's research group at the School of Publishing, University of Shanghai for Science and Technology, responsible for paper writing, project application, and team management.
 
+#  Publications 
+- [Designing Complexity: The Anti-Hero Transformation of Shen Gongbao in Chinese Animated Films]，Xiaofeng Liu, **Chong Bu**, Xinyue Zhang
+- [Research on the Value Influence of Generation Z Youth Based on Short Video
+Recommendation Algorithm], Hailong Liu, **Chong Bu**, Ji Ma, Po Jiang, Leang Chen, Xiang Jiang, Xinyue Zhang 
+  
+##  Under review 
+- [Serialized Narrative Strategies for Chinese Mythological IP Development: The Case of Nezha]，Xiaofeng Liu, **Chong Bu**
+- [Carnival Theory and User-Generated Content on Short-Video Platforms: The Case of 'LinaBell']，Xiaofeng Liu, **Chong Bu**
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+#  Honors and Awards
+- *2023.08* Third Prize in Shanghai Region, The 15th National Student Advertising Art Competition
+- *2023.03 & 2021.04* Third Class Scholarship
+- *2022.12 & 2020.10* Excellence Award, Academy Award of Advertising Festival of Chinese College Students
+- *2022.09* Outstanding Officer of University Art Troupe
+- *2022.08* Volunteer Activity
+  Participated in the filming of the city promotion film of Baoshan District, Shanghai.
+- *2022.07* Third Prize in Shanghai Region, The 14th National Student Advertising Art Competition
+- *2021.12* University-level Outstanding Student Leader
+- *2021.12* University-level Advanced Individual Award
+- *2021.08* Third Prize of the 6th Shanghai Huichuang Youth Competition
+- *2021.05* Municipal-level First Prize in the 6th National University Art Exhibition
+- *2021.05* Municipal-level Excellent Creation Award in the 6th National University Art Exhibition
+  
+#  Educations
+- *2025.09 - 2026.09 (now)*, University of Manchester, Manchester Britain.
+- *2023.09 - 2024.07*, L'École de design Nantes Atlantique, Nantes France, Bachelor of Fine Arts (BFA) in Digital Media Design.
+- *2020.09 - 2024.06*, University of Shanghai for Science and Technology, Shanghai China, Bachelor of Arts (B.A.) in Advertising. 
 
-# 📝 Publications 
+#  Invited Talks
+- *2025.01* Assisted Prof. Liu Xiaofeng (Central Academy of Fine Arts) in delivering a keynote on metaverse applications in cultural digitization at Digital Co-Creation: The Future of Culture and Museums in the Metaverse Era forum.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+#  Internships
+- *2022.12 - 2023.02*, Publicis Groupe, eCommerce Media Intern, China.
+- *2022.03 - 2022.12*, Liaoning Zhongtong Construction Engineering Co. Human Resources Department, Programme Design Intern, China.
+- *2021.06 - 2021.09*, Xueersi Online School , Chinese Teaching Assistant, China.
