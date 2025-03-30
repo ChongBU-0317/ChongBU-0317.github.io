@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-#  Welcome
+# ✨ Welcome
 I hold a Bachelor's degree in Advertising and a degree in Digital Media Design from L'École de design Nantes Atlantique in France. I have also received an offer for the Master's program in Creative and Cultural Industries at the University of Manchester. My research interests lie in digital media, advertising communication, user-generated content (UGC) on short video platforms, and cross-media narrative strategies. I am particularly interested in how innovative communication strategies can engage younger audiences and facilitate the dissemination of Chinese cultural IPs in the digital age across multiple platforms.
 I have authored and contributed to several papers, which have been accepted by both domestic and international academic conferences and journals. My work explores topics such as the impact of UGC on brand communication, the influence of recommendation algorithms on youth culture, and the global dissemination of Chinese cultural narratives.
 Outside of academia, I have been involved in various advertising design and creative projects, winning several awards in national and international advertising competitions. Moving forward, I plan to continue exploring the integration of digital and traditional media to drive innovation and development in the creative industries.
 
-#  News
+# 📌 News
 - *2025.02*: One paper has been accepted by *Film Literature* (电影文学), a CSSCI-indexed core journal.
 - *2024.12*: One paper has been accepted by the 2025 International Conference on Computer Networks, Digital Media Technology, and Internet of Things Engineering (CNDMTITE 2025). 
 - *2024.08*: Joined Professor Xiaofeng Liu's research group at the School of Publishing, University of Shanghai for Science and Technology, responsible for paper writing, project application, and team management.
