@@ -14,18 +14,14 @@ layout: compress
       margin: 0;
     }
 
+    /* ✅ 导航栏设置：去除多余间隙和底部线 */
     .masthead {
-      background: transparent;
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      z-index: 10;
-      padding-top: 0;
-      margin: 0;
-      box-shadow: none;
+      margin: 0 !important;
+      padding: 0 !important;
+      border: none !important;
     }
 
+    /* ✅ 顶部背景图设置 */
     .header {
       background-image: url('/images/EDAN.jpg'); /* 确保路径正确 */
       background-size: cover;
@@ -33,9 +29,9 @@ layout: compress
       background-repeat: no-repeat;
       height: 450px;
       width: 100%;
-      position: relative;
       font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      padding-top: 80px; /* 防止导航栏遮住文字，按需调整 */
+      margin-top: 0;
+      padding-top: 60px; /* 调整这个防止文字太靠上 */
     }
 
     .header h1 {
@@ -69,7 +65,7 @@ layout: compress
   {% include browser-upgrade.html %}
   {% include masthead.html %}
 
-  <!-- 🔽 顶部背景图横幅区域 -->
+  <!-- ✅ 顶部横幅区域（背景图） -->
   <header class="header">
     <h1>Chong Bu | Researcher in Digital Media and Cross-Media Narrative</h1>
     <div>USST × EDNA → University of Manchester</div>
