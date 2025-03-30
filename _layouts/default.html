@@ -10,6 +10,22 @@ layout: compress
   {% include head/custom.html %}
 
   <style>
+    body {
+      margin: 0;
+    }
+
+    .masthead {
+      background: transparent;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      z-index: 10;
+      padding-top: 0;
+      margin: 0;
+      box-shadow: none;
+    }
+
     .header {
       background-image: url('/images/EDAN.jpg'); /* 确保路径正确 */
       background-size: cover;
@@ -18,8 +34,8 @@ layout: compress
       height: 450px;
       width: 100%;
       position: relative;
-      margin-bottom: 20px;
-      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; /* 字体设置 */
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      padding-top: 80px; /* 防止导航栏遮住文字，按需调整 */
     }
 
     .header h1 {
@@ -27,7 +43,6 @@ layout: compress
       text-align: center;
       font-size: 40px;
       font-weight: 600;
-      padding-top: 150px;
       text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
     }
 
