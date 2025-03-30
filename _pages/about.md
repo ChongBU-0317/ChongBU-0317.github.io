@@ -27,7 +27,7 @@ Outside of academia, I have been involved in various advertising design and crea
 - *2024.12*: One paper has been accepted by the 2025 International Conference on Computer Networks, Digital Media Technology, and Internet of Things Engineering (CNDMTITE 2025). 
 - *2024.08*: Joined Professor Xiaofeng Liu's research group at the School of Publishing, University of Shanghai for Science and Technology, responsible for paper writing, project application, and team management.
 
-#  Publications 
+# 📝 Publications 
 - [Designing Complexity: The Anti-Hero Transformation of Shen Gongbao in Chinese Animated Films]，Xiaofeng Liu, **Chong Bu**, Xinyue Zhang
 - [Research on the Value Influence of Generation Z Youth Based on Short Video
 Recommendation Algorithm], Hailong Liu, **Chong Bu**, Ji Ma, Po Jiang, Leang Chen, Xiang Jiang, Xinyue Zhang 
@@ -36,7 +36,7 @@ Recommendation Algorithm], Hailong Liu, **Chong Bu**, Ji Ma, Po Jiang, Leang Che
 - [Serialized Narrative Strategies for Chinese Mythological IP Development: The Case of Nezha]，Xiaofeng Liu, **Chong Bu**
 - [Carnival Theory and User-Generated Content on Short-Video Platforms: The Case of 'LinaBell']，Xiaofeng Liu, **Chong Bu**
 
-#  Honors and Awards
+# 🎖️ Honors and Awards
 - *2023.08* Third Prize in Shanghai Region, The 15th National Student Advertising Art Competition
 - *2023.03 & 2021.04* Third Class Scholarship
 - *2022.12 & 2020.10* Excellence Award, Academy Award of Advertising Festival of Chinese College Students
