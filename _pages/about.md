@@ -23,13 +23,11 @@ Outside of academia, I have been involved in various advertising design and crea
 
 <span id="news" class="anchor"></span>
 #  News
-- *2025.02*: One paper has been accepted by *Film Literature* (电影文学), a CSSCI-indexed core journal.
 - *2024.12*: One paper has been accepted by the 2025 International Conference on Computer Networks, Digital Media Technology, and Internet of Things Engineering (CNDMTITE 2025). 
 - *2024.08*: Joined Professor Xiaofeng Liu's research group at the School of Publishing, University of Shanghai for Science and Technology, responsible for paper writing, project application, and team management.
 
 <span id="publications" class="anchor"></span>
 #  Publications 
-- [Designing Complexity: The Anti-Hero Transformation of Shen Gongbao in Chinese Animated Films]，Xiaofeng Liu, **Chong Bu**, Xinyue Zhang  
 - [Research on the Value Influence of Generation Z Youth Based on Short Video Recommendation Algorithm], Hailong Liu, **Chong Bu**, Ji Ma, Po Jiang, Leang Chen, Xiang Jiang, Xinyue Zhang 
 
 ##  Under review 
