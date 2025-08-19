@@ -38,6 +38,18 @@ Outside of academia, I have been involved in various advertising design and crea
 - [Study on User-Generated Content in Short-video Platforms under the Perspective of Carnival
 Theory--Taking "Lina Bell" as an Example](https://file.notion.so/f/f/dc472f14-ee5f-4318-b31e-a0dabfad82db/e479ac46-50a4-416e-93cc-eb3aa4db481f/Study_on_User-Generated_Content_in_Short-video_Platforms_under_the_Perspective_of_Carnival_Theory--Taking_Lina_Bell_as_an_Example.pdf?table=block&id=2540b4eb-7c5c-80a7-9439-df6c17525dd9&spaceId=dc472f14-ee5f-4318-b31e-a0dabfad82db&expirationTimestamp=1755612000000&signature=OlhXqFhZSeDellg6l5KuTWFG5n4xnR_wXv5Ue-xzP-g&downloadName=Study+on+User-Generated+Content+in+Short-video+Platforms+under+the+Perspective+of+Carnival+Theory--Taking+%22Lina+Bell%22+as+an+Example.pdf)，Xiaofeng Liu, **Chong Bu**
   
+
+<span id="projects" class="anchor"></span>
+#  Projects & Design Experience
+- **Smart Home App Collaboration – Chint Group × L’École de design Nantes Atlantique (2023–2024)**  
+  Acted as a cross-cultural coordinator and app design contributor for a smart home system, bridging communication between Chinese corporate engineers and French design students.
+- **PavePulse: Gamified Sports App for Youth Engagement (Bachelor Graduation Project, 2023–2024)**  
+  Designed a gamified fitness app to motivate youth participation in exercise, integrating survey results (n=309), behavioral insights, and interactive prototypes.
+- **Sustainable Foodtruck App (International Circular Design Workshop, 2023)**  
+  Co-developed a food redistribution and anti-waste mobile app with international peers, applying circular design and eco-design strategies.
+- **Faded: Experimental Short Film (2023)**  
+  Wrote and directed a short film exploring procrastination and youth culture; responsible for scriptwriting, directing, and post-production editing.
+
 <span id="honors-and-awards" class="anchor"></span>
 #  Honors and Awards
 - *2023.08* Third Prize in Shanghai Region, The 15th National Student Advertising Art Competition  
