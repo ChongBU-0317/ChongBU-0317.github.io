@@ -43,6 +43,7 @@ Theory--Taking "Lina Bell" as an Example](https://file.notion.so/f/f/dc472f14-ee
 #  Projects and Design Experience
 - **Smart Home App Collaboration – Chint Group × L’École de design Nantes Atlantique (2023–2024)**  
   Acted as a cross-cultural coordinator and app design contributor for a smart home system, bridging communication between Chinese corporate engineers and French design students.
+  
   *Due to corporate confidentiality agreements, the demo video cannot be shared publicly.*
 - **PavePulse: Gamified Sports App for Youth Engagement (Bachelor Graduation Project, 2023–2024)**  
   Designed a gamified fitness app to motivate youth participation in exercise, integrating survey results (n=309), behavioral insights, and interactive prototypes.
