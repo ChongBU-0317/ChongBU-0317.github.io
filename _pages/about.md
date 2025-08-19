@@ -23,17 +23,21 @@ Outside of academia, I have been involved in various advertising design and crea
 
 <span id="news" class="anchor"></span>
 #  News
-- *2024.12*: One paper has been accepted by the 2025 International Conference on Computer Networks, Digital Media Technology, and Internet of Things Engineering (CNDMTITE 2025). 
+- *2025.07.25*: The paper *A Computational Framework for IP Co-Creation: SnowNLP-Based Sentiment Analysis and LDA Topic Modeling of the Nezha Franchise* has been accepted by **ICEKIM 2025 (International Conference on Electronics, Knowledge and Information Management)** and published by **ACM**.
+- *2025.06.08*: The paper *Designing a Narrative System Architecture for Serialized Mythological IPs in Animated Films* has been accepted by the **4th International Conference on Art Design and Digital Technology (ADDT 2025)**.
+- *2024.12*: The paper *Research on the Value Influence of Generation Z Youth Based on Short Video Recommendation Algorithm* has been accepted by the 2025 International Conference on Computer Networks, Digital Media Technology, and Internet of Things Engineering (CNDMTITE 2025). 
 - *2024.08*: Joined Professor Xiaofeng Liu's research group at the School of Publishing, University of Shanghai for Science and Technology, responsible for paper writing, project application, and team management.
 
 <span id="publications" class="anchor"></span>
 #  Publications 
-- [Research on the Value Influence of Generation Z Youth Based on Short Video Recommendation Algorithm], Hailong Liu, **Chong Bu**, Ji Ma, Po Jiang, Leang Chen, Xiang Jiang, Xinyue Zhang 
+- [A Computational Framework for IP Co-Creation: SnowNLP-Based Sentiment Analysis and LDA Topic Modeling of the Nezha Franchise](https://file.notion.so/f/f/dc472f14-ee5f-4318-b31e-a0dabfad82db/b72d8f77-6da9-4de5-aeb6-9dba1ac8214a/A_Computational_Framework_for_IP_Co-Creation.pdf?table=block&id=2540b4eb-7c5c-806d-80e6-ed4a6bc531c6&spaceId=dc472f14-ee5f-4318-b31e-a0dabfad82db&expirationTimestamp=1755612000000&signature=oHVl9UNjqRFfn92ThQmsPvhRPcpeaG26deSusfjLKA0&downloadName=A+Computational+Framework+for+IP+Co-Creation.pdf)，**Chong Bu** (first & corresponding author)  
+- [Designing a Narrative System Architecture for Serialized Mythological IPs in Animated Films](https://file.notion.so/f/f/dc472f14-ee5f-4318-b31e-a0dabfad82db/daf01dc8-eae3-4cff-a44e-a94832cfefd1/Designing_a_Narrative_System_Architecture_for_Serialized_Mythological_IPs_in_Animated_Films.pdf?table=block&id=2540b4eb-7c5c-8005-9745-e0974ef36322&spaceId=dc472f14-ee5f-4318-b31e-a0dabfad82db&expirationTimestamp=1755612000000&signature=rlH6rMCn5I0EdhQywK3KrgtITlY72uiRkOoEjynXwjE&downloadName=Designing+a+Narrative+System+Architecture+for+Serialized+Mythological+IPs+in+Animated+Films.pdf)，Xiaofeng Liu¹, **Chong Bu**¹², Yanyan Zha¹, Zhiyue Zhang¹  
+- [Research on the Value Influence of Generation Z Youth Based on Short Video Recommendation Algorithm](https://file.notion.so/f/f/dc472f14-ee5f-4318-b31e-a0dabfad82db/9d491f30-c11a-4b98-825f-8f587674886f/Research_on_the_Value_Influence_of_Generation_Z_Youth_Based_on_Short_Video_Recommendation_Algorithm.pdf?table=block&id=2540b4eb-7c5c-8028-a6e5-e264b6aa4b0d&spaceId=dc472f14-ee5f-4318-b31e-a0dabfad82db&expirationTimestamp=1755612000000&signature=jqtPDWgyn1g3B6ZMoVfXsYW4y7oWeDBhXtNvlYjMxvM&downloadName=Research+on+the+Value+Influence+of+Generation+Z+Youth+Based+on+Short+Video+Recommendation+Algorithm.pdf), Hailong Liu, **Chong Bu**, Ji Ma, Po Jiang, Leang Chen, Xiang Jiang, Xinyue Zhang
 
-##  Under review 
-- [Serialized Narrative Strategies for Chinese Mythological IP Development: The Case of Nezha]，Xiaofeng Liu, **Chong Bu**  
-- [Carnival Theory and User-Generated Content on Short-Video Platforms: The Case of 'LinaBell']，Xiaofeng Liu, **Chong Bu**
-
+ ## Under Review
+- [Study on User-Generated Content in Short-video Platforms under the Perspective of Carnival
+Theory--Taking "Lina Bell" as an Example](https://file.notion.so/f/f/dc472f14-ee5f-4318-b31e-a0dabfad82db/e479ac46-50a4-416e-93cc-eb3aa4db481f/Study_on_User-Generated_Content_in_Short-video_Platforms_under_the_Perspective_of_Carnival_Theory--Taking_Lina_Bell_as_an_Example.pdf?table=block&id=2540b4eb-7c5c-80a7-9439-df6c17525dd9&spaceId=dc472f14-ee5f-4318-b31e-a0dabfad82db&expirationTimestamp=1755612000000&signature=OlhXqFhZSeDellg6l5KuTWFG5n4xnR_wXv5Ue-xzP-g&downloadName=Study+on+User-Generated+Content+in+Short-video+Platforms+under+the+Perspective+of+Carnival+Theory--Taking+%22Lina+Bell%22+as+an+Example.pdf)，Xiaofeng Liu, **Chong Bu**
+- 
 <span id="honors-and-awards" class="anchor"></span>
 # ️ Honors and Awards
 - *2023.08* Third Prize in Shanghai Region, The 15th National Student Advertising Art Competition  
