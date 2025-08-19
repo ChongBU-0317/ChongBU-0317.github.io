@@ -39,7 +39,7 @@ Outside of academia, I have been involved in various advertising design and crea
 Theory--Taking "Lina Bell" as an Example](https://file.notion.so/f/f/dc472f14-ee5f-4318-b31e-a0dabfad82db/e479ac46-50a4-416e-93cc-eb3aa4db481f/Study_on_User-Generated_Content_in_Short-video_Platforms_under_the_Perspective_of_Carnival_Theory--Taking_Lina_Bell_as_an_Example.pdf?table=block&id=2540b4eb-7c5c-80a7-9439-df6c17525dd9&spaceId=dc472f14-ee5f-4318-b31e-a0dabfad82db&expirationTimestamp=1755612000000&signature=OlhXqFhZSeDellg6l5KuTWFG5n4xnR_wXv5Ue-xzP-g&downloadName=Study+on+User-Generated+Content+in+Short-video+Platforms+under+the+Perspective+of+Carnival+Theory--Taking+%22Lina+Bell%22+as+an+Example.pdf)，Xiaofeng Liu, **Chong Bu**
 - 
 <span id="honors-and-awards" class="anchor"></span>
-# ️ Honors and Awards
+#  Honors and Awards
 - *2023.08* Third Prize in Shanghai Region, The 15th National Student Advertising Art Competition  
 - *2023.03 & 2021.04* Third Class Scholarship  
 - *2022.12 & 2020.10* Excellence Award, Academy Award of Advertising Festival of Chinese College Students  
