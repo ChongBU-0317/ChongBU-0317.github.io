@@ -31,12 +31,12 @@ Outside of academia, I have been involved in various advertising design and crea
 <span id="publications" class="anchor"></span>
 #  Publications 
 - [A Computational Framework for IP Co-Creation: SnowNLP-Based Sentiment Analysis and LDA Topic Modeling of the Nezha Franchise](https://drive.google.com/file/d/1ed43sU8ggVwfUGugYeCdMCEza-L-I1d8/view?usp=drive_link)，**Chong Bu** (first & corresponding author)  
-- [Designing a Narrative System Architecture for Serialized Mythological IPs in Animated Films](https://file.notion.so/f/f/dc472f14-ee5f-4318-b31e-a0dabfad82db/daf01dc8-eae3-4cff-a44e-a94832cfefd1/Designing_a_Narrative_System_Architecture_for_Serialized_Mythological_IPs_in_Animated_Films.pdf?table=block&id=2540b4eb-7c5c-8005-9745-e0974ef36322&spaceId=dc472f14-ee5f-4318-b31e-a0dabfad82db&expirationTimestamp=1755612000000&signature=rlH6rMCn5I0EdhQywK3KrgtITlY72uiRkOoEjynXwjE&downloadName=Designing+a+Narrative+System+Architecture+for+Serialized+Mythological+IPs+in+Animated+Films.pdf)，Xiaofeng Liu¹, **Chong Bu**¹²  
-- [Research on the Value Influence of Generation Z Youth Based on Short Video Recommendation Algorithm](https://file.notion.so/f/f/dc472f14-ee5f-4318-b31e-a0dabfad82db/9d491f30-c11a-4b98-825f-8f587674886f/Research_on_the_Value_Influence_of_Generation_Z_Youth_Based_on_Short_Video_Recommendation_Algorithm.pdf?table=block&id=2540b4eb-7c5c-8028-a6e5-e264b6aa4b0d&spaceId=dc472f14-ee5f-4318-b31e-a0dabfad82db&expirationTimestamp=1755612000000&signature=jqtPDWgyn1g3B6ZMoVfXsYW4y7oWeDBhXtNvlYjMxvM&downloadName=Research+on+the+Value+Influence+of+Generation+Z+Youth+Based+on+Short+Video+Recommendation+Algorithm.pdf), Hailong Liu¹, **Chong Bu**¹², Ji Ma
+- [Designing a Narrative System Architecture for Serialized Mythological IPs in Animated Films](https://drive.google.com/file/d/16s4QIo-QnrSP2Fw-3Oopb52wTJ-yeOnJ/view?usp=sharing)，Xiaofeng Liu¹, **Chong Bu**¹²  
+- [Research on the Value Influence of Generation Z Youth Based on Short Video Recommendation Algorithm](https://drive.google.com/file/d/1rCDZEjYtTN6aUizY3xOgqvh7jLeG1-sn/view?usp=drive_link), Hailong Liu¹, **Chong Bu**¹², Ji Ma
 
 ## Under Review
 - [Study on User-Generated Content in Short-video Platforms under the Perspective of Carnival
-Theory--Taking "Lina Bell" as an Example](https://file.notion.so/f/f/dc472f14-ee5f-4318-b31e-a0dabfad82db/e479ac46-50a4-416e-93cc-eb3aa4db481f/Study_on_User-Generated_Content_in_Short-video_Platforms_under_the_Perspective_of_Carnival_Theory--Taking_Lina_Bell_as_an_Example.pdf?table=block&id=2540b4eb-7c5c-80a7-9439-df6c17525dd9&spaceId=dc472f14-ee5f-4318-b31e-a0dabfad82db&expirationTimestamp=1755612000000&signature=OlhXqFhZSeDellg6l5KuTWFG5n4xnR_wXv5Ue-xzP-g&downloadName=Study+on+User-Generated+Content+in+Short-video+Platforms+under+the+Perspective+of+Carnival+Theory--Taking+%22Lina+Bell%22+as+an+Example.pdf)，Xiaofeng Liu¹, **Chong Bu**¹²
+Theory--Taking "Lina Bell" as an Example](https://drive.google.com/file/d/1820V04JE9ZRkKFPNV2VIiJ8ZeF445Ksd/view?usp=sharing)，Xiaofeng Liu¹, **Chong Bu**¹²
   
 
 <span id="projects-and-design-experience" class="anchor"></span>
