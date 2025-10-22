@@ -30,8 +30,10 @@ Outside of academia, I have been involved in various advertising design and crea
 
 <span id="publications" class="anchor"></span>
 #  Publications 
-- [A Computational Framework for IP Co-Creation: SnowNLP-Based Sentiment Analysis and LDA Topic Modeling of the Nezha Franchise](https://drive.google.com/file/d/1ed43sU8ggVwfUGugYeCdMCEza-L-I1d8/view?usp=drive_link)，**Chong Bu** (first & corresponding author)  
-- [Designing a Narrative System Architecture for Serialized Mythological IPs in Animated Films](https://drive.google.com/file/d/16s4QIo-QnrSP2Fw-3Oopb52wTJ-yeOnJ/view?usp=sharing)，Xiaofeng Liu¹, **Chong Bu**¹²  
+- [A Computational Framework for IP Co-Creation: SnowNLP-Based Sentiment Analysis and LDA Topic Modeling of the Nezha Franchise](https://dl.acm.org/doi/10.1145/3756580.3756657), **Chong Bu** (1st & corresponding author)  
+  *In Proceedings of ICEKIM 2025 (ACM Press)*
+- [Designing a Narrative System Architecture for Serialized Mythological IPs in Animated Films](https://www.atlantis-press.com/proceedings/addt-25/126014856), Xiaofeng Liu¹, **Chong Bu¹²**
+  *In Proceedings of the 2025 4th International Conference on Art Design and Digital Technology (ADDT 2025), Atlantis Press (Open Access)*
 - [Research on the Value Influence of Generation Z Youth Based on Short Video Recommendation Algorithm](https://drive.google.com/file/d/1rCDZEjYtTN6aUizY3xOgqvh7jLeG1-sn/view?usp=drive_link), Hailong Liu¹, **Chong Bu**¹², Ji Ma
 
 ## Under Review
